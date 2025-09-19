@@ -8,15 +8,13 @@ This project is built using **React (Vite)**, **Firebase Authentication**, and *
 
 ---
 
-## 👨‍💻 Author
 **Parth Savaliya**  
-- 🎓 Bachelor’s in Computer Engineering   
-- 📍 Hamilton, Ontario, Canada  
-- 💼 Passionate about Web Development 
+-  Bachelor’s in Computer Engineering   
+-  Hamilton, Ontario, Canada  
+-  Passionate about Web Development 
 
 ---
 
-## 🚀 Features
 
 ### Admin Panel
 - Store registration  
@@ -33,7 +31,6 @@ This project is built using **React (Vite)**, **Firebase Authentication**, and *
 
 ---
 
-## ⚙️ Technologies Used
 
 - **React (Vite)** → Frontend framework for fast and modular UI.  
 - **Core JavaScript (ES6+)** → Logic for product scanning, billing, and deals.  
@@ -43,13 +40,11 @@ This project is built using **React (Vite)**, **Firebase Authentication**, and *
 
 ---
 
-## 📂 Project Structure
 - **Admin Panel** → Manage stores, inventory, and deals.  
 - **POS Screen** → Frontline cashier interface for billing and reporting.  
 
 ---
 
-## 🛠️ Installation & Setup
 
 1. Clone the repository:
    ```bash
